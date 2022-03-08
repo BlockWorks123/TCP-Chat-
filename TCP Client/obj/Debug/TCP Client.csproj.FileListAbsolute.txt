@@ -1,0 +1,84 @@
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\obj\Debug\TCP_Client.Form1.resources
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\Block\Documents\James C# TCP Chat\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\obj\Debug\TCP_Client.Form1.resources
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\Block\Documents\C# Projects\James's C# TCP Chat\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\obj\Debug\TCP_Client.Form1.resources
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\Block\Documents\C# Projects\TCP Chat\TCP Client\bin\Debug\TCP Client.pdb
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\bin\Debug\TCP Client.exe.config
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\bin\Debug\TCP Client.exe
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\bin\Debug\TCP Client.pdb
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\obj\Debug\TCP_Client.Form1.resources
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\obj\Debug\TCP Client.exe
+\\kts-file\dillonj022861$\TCP Chat\TCP Client\obj\Debug\TCP Client.pdb
+N:\TCP Chat\TCP Client\bin\Debug\TCP Client.exe.config
+N:\TCP Chat\TCP Client\bin\Debug\TCP Client.exe
+N:\TCP Chat\TCP Client\bin\Debug\TCP Client.pdb
+N:\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+N:\TCP Chat\TCP Client\obj\Debug\TCP_Client.Form1.resources
+N:\TCP Chat\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+N:\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+N:\TCP Chat\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+N:\TCP Chat\TCP Client\obj\Debug\TCP Client.exe
+N:\TCP Chat\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\obj\Debug\TCP_Client.Form1.resources
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\Block\Documents\C# Projects\TCP-Chat\TCP Client\obj\Debug\TCP Client.pdb
+N:\Computing\TCP-Chat\TCP Client\bin\Debug\TCP Client.exe.config
+N:\Computing\TCP-Chat\TCP Client\bin\Debug\TCP Client.exe
+N:\Computing\TCP-Chat\TCP Client\bin\Debug\TCP Client.pdb
+N:\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+N:\Computing\TCP-Chat\TCP Client\obj\Debug\TCP_Client.Form1.resources
+N:\Computing\TCP-Chat\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+N:\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+N:\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+N:\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.exe
+N:\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.pdb
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\bin\Debug\TCP Client.exe.config
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\bin\Debug\TCP Client.exe
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\bin\Debug\TCP Client.pdb
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP_Client.Form1.resources
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.exe
+\\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.pdb
