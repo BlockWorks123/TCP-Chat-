@@ -44,16 +44,21 @@ namespace TCP_Client
                 MessageBox.Show("Invalid nickname try Again", "TCP Client");
                 return;
             }
-            
-            tcpClient = new TcpClient(host, port);
+            try 
+            {
+                tcpClient = new TcpClient(host, port);
 
-            thread = new Thread(Message_Recv);
-            thread.Start();
+                thread = new Thread(Message_Recv);
+                thread.Start();
 
-            
-            sWriter = new StreamWriter(tcpClient.GetStream());
-            sWriter.WriteLine(nickname);
-            sWriter.Flush();
+                sWriter = new StreamWriter(tcpClient.GetStream());
+                sWriter.WriteLine(nickname);
+                sWriter.Flush();
+            }
+            catch 
+            {
+                MessageBox.Show("Server Closed");            
+            }
         }
 
         public void Button_Disconnect(object sender, EventArgs e)
@@ -184,7 +189,7 @@ namespace TCP_Client
                 else if (message_send.EndsWith("/clear"))
                 {
                     TerminalWindow.Clear();
-                    TerminalWindow.AppendText("\n>> Chat has been Cleared");
+                    TerminalWindow.AppendText(">> Chat has been Cleared");
                 }
                 else
                 {
@@ -205,7 +210,14 @@ namespace TCP_Client
 
         private void About_Press(object sender, EventArgs e)
         {
-            MessageBox.Show($"Version: 1.0.0\nDeveloper: BlockWorks123", "TCP Client");
+            MessageBox.Show($"Version: 1.0.1\nDeveloper: BlockWorks123", "TCP Client");
+        }
+
+        private void Form_Closed(object sender, FormClosedEventArgs e)
+        {
+            sReader.Close();
+            sWriter.Close();
+            tcpClient.Close();
         }
     }
 }

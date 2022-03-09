@@ -1,1 +1,4 @@
 >> Client Started
+>> 546erht joined the Chat
+>> 546erht : testing
+>> 546erht left the Chat

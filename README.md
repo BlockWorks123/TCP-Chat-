@@ -1,4 +1,6 @@
-# TCP-Chat Client 1.0.0
+# TCP-Chat Client 1.0.1
+
+Changelog : Client disconnects if client is forcibly closed
 
 Client Commands
 - /help --> Gives list of avalible commands

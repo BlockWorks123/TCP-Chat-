@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Block\\Documents\\C# Projects\\TCP-Chat-\\TCP Server\\TCP Server\\TCP Server.csproj",
+      "projectUniqueName": "C:\\Users\\Block\\Documents\\Github\\TCP-Chat-\\TCP Server\\TCP Server\\TCP Server.csproj",
       "projectName": "TCP Server",
-      "projectPath": "C:\\Users\\Block\\Documents\\C# Projects\\TCP-Chat-\\TCP Server\\TCP Server\\TCP Server.csproj",
+      "projectPath": "C:\\Users\\Block\\Documents\\Github\\TCP-Chat-\\TCP Server\\TCP Server\\TCP Server.csproj",
       "packagesPath": "C:\\Users\\Block\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Block\\Documents\\C# Projects\\TCP-Chat-\\TCP Server\\TCP Server\\obj\\",
+      "outputPath": "C:\\Users\\Block\\Documents\\Github\\TCP-Chat-\\TCP Server\\TCP Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

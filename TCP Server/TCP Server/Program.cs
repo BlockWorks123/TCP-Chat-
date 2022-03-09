@@ -380,11 +380,18 @@ namespace TCP_Server
             msg = msg.Replace("\n", "%EOL%");
             foreach (TcpClient client in tcpClientsList)
             {
-                if (client == excludeClient)
+                try 
                 {
-                    StreamWriter sWriter = new StreamWriter(client.GetStream());
-                    sWriter.WriteLine(msg);
-                    sWriter.Flush();
+                    if (client == excludeClient)
+                    {
+                        StreamWriter sWriter = new StreamWriter(client.GetStream());
+                        sWriter.WriteLine(msg);
+                        sWriter.Flush();
+                    }
+                }
+                catch 
+                {
+                    return;
                 }
             }
         }
@@ -394,9 +401,16 @@ namespace TCP_Server
             msg = msg.Replace("\n", "%EOL%");
             foreach (TcpClient client in tcpClientsList)
             {
-                StreamWriter sWriter = new StreamWriter(client.GetStream());
-                sWriter.WriteLine(msg);
-                sWriter.Flush();
+                try
+                {
+                    StreamWriter sWriter = new StreamWriter(client.GetStream());
+                    sWriter.WriteLine(msg);
+                    sWriter.Flush();
+                }
+                catch
+                {
+                    return;
+                }
             }
         }
     }

@@ -82,3 +82,14 @@ N:\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.pdb
 \\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
 \\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.exe
 \\kts-file\dillonj022861$\Computing\TCP-Chat\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\obj\Debug\TCP Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\obj\Debug\TCP_Client.Form1.resources
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\Block\Documents\Github\TCP-Chat-\TCP Client\obj\Debug\TCP Client.pdb
