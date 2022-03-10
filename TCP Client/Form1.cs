@@ -76,7 +76,7 @@ namespace TCP_Client
                     {
                         TerminalWindow.Clear();
                         TabTerminal.Clear();
-                        TabTerminal.AppendText($"\n{nickname} ");
+                        TabTerminal.AppendText($"Online Clients\n{nickname} ");
                         TerminalWindow.AppendText($"\n>> {nickname} left the Chat");
                         sReader.Close();
                         sWriter.Close();
@@ -141,11 +141,6 @@ namespace TCP_Client
                 {
                     string message_arg = text.Replace("MESSAGE ", "");
                     MessageBox.Show(message_arg, "TCP Client");
-                }
-                else if (text.StartsWith("TAB")) 
-                {
-                    string tab_arg = text.Replace("TAB ", "");
-                    TabTerminal.AppendText(tab_arg);
                 }
                 else if (text.StartsWith("ADD")) 
                 {
@@ -215,9 +210,12 @@ namespace TCP_Client
 
         private void Form_Closed(object sender, FormClosedEventArgs e)
         {
-            sReader.Close();
-            sWriter.Close();
-            tcpClient.Close();
+            if(tcpClient != null)
+            {
+                sReader.Close();
+                sWriter.Close();
+                tcpClient.Close();
+            }
         }
     }
 }

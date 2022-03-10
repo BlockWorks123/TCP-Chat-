@@ -1,6 +1,6 @@
-# TCP-Chat Client 1.0.1
+# TCP-Chat Client 1.0.2
 
-Changelog : Client disconnects if client is forcibly closed
+Changelog : Fixed tab not showing players
 
 Client Commands
 - /help --> Gives list of avalible commands

@@ -65,9 +65,9 @@
             // 
             // MessageEntry
             // 
-            this.MessageEntry.Location = new System.Drawing.Point(12, 433);
+            this.MessageEntry.Location = new System.Drawing.Point(8, 432);
             this.MessageEntry.Name = "MessageEntry";
-            this.MessageEntry.Size = new System.Drawing.Size(408, 20);
+            this.MessageEntry.Size = new System.Drawing.Size(412, 20);
             this.MessageEntry.TabIndex = 27;
             this.MessageEntry.Text = " ";
             // 

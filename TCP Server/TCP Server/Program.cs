@@ -27,7 +27,7 @@ namespace TCP_Server
         {
             list_admin.Add("James", "Password");
             File.WriteAllText(chat_path, "");
-            File.WriteAllText(chat_path, ">> Client Started");
+            File.AppendAllText(chat_path, ">> Client Started");
             tcpListener.Start();
             Console.WriteLine(">> Server started...");
 
@@ -105,7 +105,9 @@ namespace TCP_Server
             Broadcast_All($"\n>> {nickname} joined the Chat");
             File.AppendAllText(chat_path, $"\n>> {nickname} joined the Chat");
 
-            Broadcast_Client($"TAB {tab_path}", tcpClient);
+            Thread.Sleep(5000);
+
+            Broadcast_Client($"ADD {tab_path}", tcpClient);
 
             if (list_admin.ContainsKey(nickname))
             {
@@ -117,8 +119,6 @@ namespace TCP_Server
                 tab_path = tab_path + $"\n{nickname} ";
                 Broadcast_All($"ADD \n{nickname} ");
             }
-            
-            Console.WriteLine(tab_path);
         }
 
         private static bool Check_Password(string password, string correct_password, TcpClient tcpClient)
@@ -160,6 +160,7 @@ namespace TCP_Server
                     {
                         if (message != null)
                         {
+                            message = message.ToLower();
                             Console.WriteLine($">> {nickname} : {message}");
 
                             if (message.StartsWith("/"))
