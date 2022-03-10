@@ -77,7 +77,7 @@ namespace TCP_Client
                         TerminalWindow.Clear();
                         TabTerminal.Clear();
                         TabTerminal.AppendText($"Online Clients\n{nickname} ");
-                        TerminalWindow.AppendText($"\n>> {nickname} left the Chat");
+                        TerminalWindow.AppendText($"Client Disconnected\n>> {nickname} left the Chat");
                         sReader.Close();
                         sWriter.Close();
                         tcpClient.Close();
@@ -205,7 +205,7 @@ namespace TCP_Client
 
         private void About_Press(object sender, EventArgs e)
         {
-            MessageBox.Show($"Version: 1.0.1\nDeveloper: BlockWorks123", "TCP Client");
+            MessageBox.Show($"Version: 1.0.1\nDeveloper: BlockWorks123\nGithub: https://github.com/BlockWorks123", "TCP Client");
         }
 
         private void Form_Closed(object sender, FormClosedEventArgs e)

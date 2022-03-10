@@ -1,4 +1,4 @@
-# TCP-Chat Client 1.0.2
+# TCP-Chat Client 1.0.3
 
 Changelog : Fixed tab not showing players
 

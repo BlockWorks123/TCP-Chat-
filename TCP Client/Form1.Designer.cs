@@ -105,7 +105,6 @@
             this.HostEntry.Name = "HostEntry";
             this.HostEntry.Size = new System.Drawing.Size(100, 20);
             this.HostEntry.TabIndex = 23;
-            this.HostEntry.Text = "127.0.0.1";
             // 
             // Disconnect
             // 

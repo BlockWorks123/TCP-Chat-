@@ -27,7 +27,7 @@ namespace TCP_Server
         {
             list_admin.Add("James", "Password");
             File.WriteAllText(chat_path, "");
-            File.AppendAllText(chat_path, ">> Client Started");
+            File.AppendAllText(chat_path, ">> Client Connected");
             tcpListener.Start();
             Console.WriteLine(">> Server started...");
 

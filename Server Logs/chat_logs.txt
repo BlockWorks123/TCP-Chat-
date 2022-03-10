@@ -1,2 +1,1 @@
->> Client Started
->> BlockWorks123 joined the Chat
+>> Client Connected
