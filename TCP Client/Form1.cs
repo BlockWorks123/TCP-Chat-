@@ -74,13 +74,14 @@ namespace TCP_Client
                 {
                     try
                     {
+                        sReader.Close();
+                        sWriter.Close();
+                        tcpClient.Close();
+
                         TerminalWindow.Clear();
                         TabTerminal.Clear();
                         TabTerminal.AppendText($"Online Clients\n{nickname} ");
                         TerminalWindow.AppendText($"Client Disconnected\n>> {nickname} left the Chat");
-                        sReader.Close();
-                        sWriter.Close();
-                        tcpClient.Close();
                     }
                     catch (Exception ex)
                     {

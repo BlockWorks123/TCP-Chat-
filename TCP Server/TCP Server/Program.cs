@@ -320,24 +320,33 @@ namespace TCP_Server
                             }
                             else
                             {
-                                foreach (string line in File.ReadLines(bad_words))
+                                int message_length = message.Length;
+                                Console.WriteLine($"Length of message is {message_length.ToString()}");
+                                if(message_length > 30) 
                                 {
-                                    string final_line = line.Replace("\n", "");
-                                    if (message.Contains(final_line))
-                                    {
-                                        message = message.Replace(final_line, "****");
-                                    }
-                                }
-
-                                if (list_admin.ContainsKey(nickname)) 
-                                {
-                                    Broadcast_All($"\n>> [ADMIN] {nickname} : {message}");
-                                    File.AppendAllText(chat_path, $"\n>> [ADMIN] {nickname} : {message}");
+                                    Broadcast_Client("MESSAGE Message is too long", tcpClient);
                                 }
                                 else 
                                 {
-                                    Broadcast_All($"\n>> {nickname} : {message}");
-                                    File.AppendAllText(chat_path, $"\n>> {nickname} : {message}");
+                                    foreach (string line in File.ReadLines(bad_words))
+                                    {
+                                        string final_line = line.Replace("\n", "");
+                                        if (message.Contains(final_line))
+                                        {
+                                            message = message.Replace(final_line, "****");
+                                        }
+                                    }
+
+                                    if (list_admin.ContainsKey(nickname))
+                                    {
+                                        Broadcast_All($"\n>> [ADMIN] {nickname} : {message}");
+                                        File.AppendAllText(chat_path, $"\n>> [ADMIN] {nickname} : {message}");
+                                    }
+                                    else
+                                    {
+                                        Broadcast_All($"\n>> {nickname} : {message}");
+                                        File.AppendAllText(chat_path, $"\n>> {nickname} : {message}");
+                                    }
                                 }
                             }
                         }

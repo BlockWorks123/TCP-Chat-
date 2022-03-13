@@ -1,1 +1,7 @@
 >> Client Connected
+>> sdfg joined the Chat
+>> sdfg left the Chat
+>> sdfg2 joined the Chat
+>> sdfg2 left the Chat
+>> sdfg3 joined the Chat
+>> sdfg3 left the Chat

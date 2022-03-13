@@ -1,6 +1,6 @@
-# TCP-Chat Client 1.0.3
+# TCP-Chat Client 1.1.0
 
-Changelog : Fixed tab not showing players
+Changelog : Character limit added to messages
 
 Client Commands
 - /help --> Gives list of avalible commands
